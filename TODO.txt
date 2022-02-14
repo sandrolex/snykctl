@@ -1,0 +1,6 @@
+- refactor
+- add tests
+- format using verbs with pattern
+- uniform logs, error, exceptions
+- uniform params args usage
+- 
